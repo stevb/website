@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://stevb.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 01:59:36 -0700</lastBuildDate><atom:link href="https://stevb.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Another One</title>
+      <link>https://stevb.github.io/posts/another-one/</link>
+      <pubDate>Sat, 22 Oct 2022 01:59:36 -0700</pubDate>
+      
+      <guid>https://stevb.github.io/posts/another-one/</guid>
+      <description>Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one, Another one!</description>
+    </item>
+    
+    <item>
+      <title>First Blog Post</title>
+      <link>https://stevb.github.io/posts/first-blog-post/</link>
+      <pubDate>Sat, 22 Oct 2022 01:51:53 -0700</pubDate>
+      
+      <guid>https://stevb.github.io/posts/first-blog-post/</guid>
+      <description>Veritatis tempore sapiente tempore ratione omnis. Sed sit exercitationem earum occaecati omnis fuga pariatur sint. Voluptas tempora qui quia nulla sint est. Cupiditate dolor totam eum consequatur. Culpa suscipit error debitis dolorem reprehenderit at saepe.
+Expedita odio qui ratione quas quis provident. Totam dolorum et dolorum harum neque cupiditate sapiente voluptate. Et deleniti exercitationem quaerat. Commodi explicabo commodi natus dolor sit quia excepturi accusamus. Ipsum sed ullam possimus sint qui ut.</description>
+    </item>
+    
+  </channel>
+</rss>
