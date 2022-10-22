@@ -1,4 +1,4 @@
-baseURL = 'https://stevb.github.io'
+baseURL = 'https://stevb.github.io/website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'xmin'
