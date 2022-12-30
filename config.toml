@@ -3,19 +3,18 @@ languageCode = 'en-us'
 title = "Steve's website"
 theme = 'xmin'
 
-
 [[menu.main]]
 	name = "Main Page"
 	url = "/"
 	weight = 1
-[[menu.main]]
-	name = "About Me"
-	url = "/about/"
-	weight = 2
-[[menu.main]]
-	name = "Cycling"
-	url = "/cycling/"
-	weight = 3
+#[[menu.main]]
+#	name = "About Me"
+#	url = "/about/"
+#	weight = 2
+#[[menu.main]]
+#	name = "Cycling"
+#	url = "/cycling/"
+#	weight = 3
 	
 [params]
 	footer = "stay blessed!"
