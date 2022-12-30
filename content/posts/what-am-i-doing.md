@@ -15,4 +15,4 @@ Ratione magni blanditiis saepe doloremque error natus ratione doloribus. Quaerat
 Ut ipsa necessitatibus beatae ipsam. Laboriosam quis consequatur repellendus ad consequuntur corrupti dolores. Aperiam quia quibusdam repellat autem architecto qui distinctio ut. Quo inventore quaerat voluptas.
 
 <!--![test](/map_screenshot.png)-->
-![A rough idea](/map_screenshot_resize.png)
+![screenshot map idea](/map_screenshot_resize.png "A rough idea")
