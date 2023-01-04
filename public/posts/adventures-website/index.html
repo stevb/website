@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Adventures in websiting - Steve&#39;s website</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Some notes from my forays into very basic website design using Hugo" />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="Adventures in websiting" />
+<meta property="og:description" content="Some notes from my forays into very basic website design using Hugo" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://bsteve.com/posts/adventures-website/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-12-30T03:50:53+01:00" />
+<meta property="article:modified_time" content="2022-12-30T03:50:53+01:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Adventures in websiting"/>
+<meta name="twitter:description" content="Some notes from my forays into very basic website design using Hugo"/>
+<script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+	<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@1,500&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="https://bsteve.com/css/main.777cbf5c5f62374e7a210fffe1ca5115ae69ae227cc76ad509533b37e1cff386.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="https://bsteve.com/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
+
+	
+	
+		<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+	
+		
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		
+		
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+			</script>
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="https://bsteve.com">Steve&#39;s website</a>
+	</div>
+	<nav>
+		
+		<a href="/">Main Page</a>
+		
+		<a href="/about/">About Me</a>
+		
+		| <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
+		<script src="https://bsteve.comjs/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">Adventures in websiting</h1>
+			<div class="meta">Posted on Dec 30, 2022</div>
+		</div>
+		
+
+		<section class="body">
+			<p>Knowing that I was headed off on a bicycle ride, I wanted a way to keep friends and family apprised of my little victories and mishaps. So I set out to make a very basic website using <a href="https://gohugo.io/">Hugo</a> for the framework and GitHub for hosting.</p>
+<ul>
+<li>I first started with a simple write-up, the one shown <a href="https://medium.com/@mahdix/build-your-own-website-hugo-github-pages-namecheap-4b3b0b781f29">here</a>.</li>
+<li>I hadn&rsquo;t used git in quite some time and found many handy guides online, but this <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">one</a> worked best for me.</li>
+<li>Lastly, I set git up with some SSH keys and I hit the ground running!</li>
+</ul>
+<p>I tried a few different readymade themes, tried modifying some, and then settled on a simple, straightforward one called <a href="https://themes.gohugo.io/themes/archie/">Archie</a>, which you&rsquo;re probably seeing here. I did change a few things around and I&rsquo;m hoping that&rsquo;s ok under the MIT licensing scheme. Now, whenever I want to share something, I can write a post with the following commands.</p>
+<pre><code>$ hugo new posts/new-post-name.md
+$ hugo server
+</code></pre>
+<p>Then, I can work on that for a bit, get it all polished up and ready to go and then publish it using the following commands.</p>
+<pre><code>$ git add .
+$ git commit -m &quot;message here&quot;
+$ git push
+</code></pre>
+<p>Maybe someone who uses git more regularly and together with others in a team is ready to point out some glaringly poor practice, but it seems to work for now. To keep my full-res photos off of github, I&rsquo;ll resize them using <a href="https://www.irfanview.com/">IrfanView</a> while I look for a better way to host those. I think that about covers it. Thanks for reading this far, but this post was really just a test drive for myself ;)</p>
+<p>P.S. I see there&rsquo;s also functionality for adding YouTube videos. My notes tell me this one was helpful.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/psyz4UPnGAA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+</p>
+<p>I think most of the trouble I&rsquo;m having is in the github hosting, which seems to 404 for a while after pushing my changes. <a href="https://toughpixels.com/tips/loading-hugo-into-github-pages/">This</a> guide seems to address these two working together (or not) and I thought <a href="https://rogerdudler.github.io/git-guide/">this</a> was a handy git cheatsheet.</p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			
+		</div>
+	</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://github.com/stevb" rel="me" title="GitHub"><i data-feather="github"></i></a>
+    <a class="border"></a><a class="soc" href="mailto:sgb@protonmail.com" rel="me" title="email"><i data-feather="mail"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+     Stay blessed!
+  </div>
+</footer>
+
+
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

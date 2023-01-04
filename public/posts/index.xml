@@ -6,15 +6,23 @@
     <description>Recent content in Posts on Steve&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Dec 2022 03:50:53 +0100</lastBuildDate><atom:link href="https://bsteve.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 10:55:39 -0500</lastBuildDate><atom:link href="https://bsteve.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>What Am I Doing?</title>
+      <title>What am I doing?</title>
       <link>https://bsteve.com/posts/what-am-i-doing/</link>
-      <pubDate>Fri, 30 Dec 2022 03:50:53 +0100</pubDate>
+      <pubDate>Sun, 01 Jan 2023 10:55:39 -0500</pubDate>
       
       <guid>https://bsteve.com/posts/what-am-i-doing/</guid>
-      <description>Veritatis tempore sapiente tempore ratione omnis. Sed sit exercitationem earum occaecati omnis fuga pariatur sint. Voluptas tempora qui quia nulla sint est. Cupiditate dolor totam eum consequatur. Culpa suscipit error debitis dolorem reprehenderit at saepe.
-Expedita odio qui ratione quas quis provident. Totam dolorum et dolorum harum neque cupiditate sapiente voluptate. Et deleniti exercitationem quaerat. Commodi explicabo commodi natus dolor sit quia excepturi accusamus. Ipsum sed ullam possimus sint qui ut.</description>
+      <description>I&amp;rsquo;ve started writing this a couple of times, and I&amp;rsquo;ve started over a couple of times</description>
+    </item>
+    
+    <item>
+      <title>Adventures in websiting</title>
+      <link>https://bsteve.com/posts/adventures-website/</link>
+      <pubDate>Fri, 30 Dec 2022 03:50:53 +0100</pubDate>
+      
+      <guid>https://bsteve.com/posts/adventures-website/</guid>
+      <description>Some notes from my forays into very basic website design using Hugo</description>
     </item>
     
   </channel>

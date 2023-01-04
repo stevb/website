@@ -1,21 +1,40 @@
 baseURL = 'https://bsteve.com'
 languageCode = 'en-us'
 title = "Steve's website"
-theme = 'xmin'
+theme = "archie"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+	mode = "toggle"
+	subtitle = "currently south, cycling north"
+	mathjax = "false"
+	katex = "false"
+	useCDN = "false"
+	
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/stevb"
+[[params.social]]
+name = "email"
+icon = "mail"
+url = "mailto:sgb@protonmail.com"
 
 [[menu.main]]
 	name = "Main Page"
 	url = "/"
 	weight = 1
+[[menu.main]]
+	name = "About Me"
+	url = "/about/"
+	weight = 2
 #[[menu.main]]
-#	name = "About Me"
-#	url = "/about/"
-#	weight = 2
-#[[menu.main]]
-#	name = "Cycling"
-#	url = "/cycling/"
+#	name = "All posts"
+#	url = "/posts"
 #	weight = 3
 	
-[params]
-	footer = "stay blessed!"
+
 	
