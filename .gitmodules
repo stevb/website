@@ -1,6 +1,3 @@
-[submodule "themes/xmin"]
-	path = themes/xmin
-	url = https://github.com/yihui/hugo-xmin.git
-[submodule "themes/hugo-theme-console"]
-	path = themes/hugo-theme-console
-	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "archie"]
+	path = themes/archie
+	url = https://github.com/athul/archie.git
