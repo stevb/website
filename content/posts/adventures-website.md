@@ -11,7 +11,7 @@ Knowing that I was headed off on a bicycle ride, I wanted a way to keep friends 
 * I hadn't used git in quite some time and found many handy guides online, but this [one](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) worked best for me.
 * Lastly, I set git up with some SSH keys and I hit the ground running!
 
-I tried a few different readymade themes, tried modifying some, and then settled on a simple, straightforward one called [Archie](https://themes.gohugo.io/themes/archie/), which you're probably seeing here. I did change a few things around and I'm hoping that's ok under the MIT licensing scheme. Now, whenever I want to share something, I can write a post with the following commands. 
+I tried a few different readymade themes, tried modifying some, and then settled on a simple, straightforward one called [Archie](https://themes.gohugo.io/themes/archie/), which you're probably seeing here. I did change a few things around and I'm hoping that's ok under the MIT licensing scheme. More on fixing some of the customization issues [here](https://bwaycer.github.io/hugo_tutorial.hugo/themes/customizing/). Now, whenever I want to share something, I can write a post with the following commands. 
 
 	$ hugo new posts/new-post-name.md
 	$ hugo server
