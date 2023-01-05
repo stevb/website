@@ -1,7 +1,7 @@
 ---
 title: About Me
 author: Steve
-date : "2015-12-09T15:03:01+09:00"
+date : "2001-01-01T00:00:01+09:00"
 showthedate : false	
 ---
 
