@@ -1,4 +1,4 @@
-baseURL = 'https://bsteve.com'
+baseURL = 'https://bsteve.com/'
 languageCode = 'en-us'
 title = "Steve's website"
 theme = "archie"
@@ -9,9 +9,9 @@ pygmentscodefencesguesssyntax = true
 [params]
 	mode = "toggle"
 	subtitle = "currently south, cycling north"
+	useCDN = "false"
 	mathjax = "false"
 	katex = "false"
-	useCDN = "false"
 	
 
 [[params.social]]
