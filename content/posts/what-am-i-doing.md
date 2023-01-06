@@ -3,6 +3,8 @@ title: "What am I doing?"
 date: 2023-01-01T10:55:39-05:00
 summary: "I've started writing this a couple of times, and I've started over a couple of times"
 draft: false
+showthedate : true	
+
 ---
 <!--
 {{< figure src=/test_image.jpg title="A picture of a building" >}}

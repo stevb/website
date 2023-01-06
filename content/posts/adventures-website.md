@@ -3,6 +3,7 @@ title: "Adventures in websiting"
 date: 2022-12-30T03:50:53+01:00
 draft: false
 summary: "Some notes from my forays into very basic website design using Hugo"
+showthedate : true	
 ---
 
 Knowing that I was headed off on a bicycle ride, I wanted a way to keep friends and family apprised of my little victories and mishaps. So I set out to make a very basic website using [Hugo](https://gohugo.io/) for the framework and GitHub for hosting. 
