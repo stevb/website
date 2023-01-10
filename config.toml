@@ -1,11 +1,11 @@
 baseURL = 'https://bsteve.com/'
 languageCode = 'en-us'
 title = "Steve's website"
-theme = "archie"
+theme = ["osm", "archie"]
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+googleAnalytics = "G-QPVD8B7M7F"
 
 [params]
 	mode = "toggle"
