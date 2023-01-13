@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 	useCDN = "false"
 	mathjax = "false"
 	katex = "false"
-	googleAnalytics = "G-QPVD8B7M7F"
+	googleAnalyticsID = "G-QPVD8B7M7F"
 
 	
 
