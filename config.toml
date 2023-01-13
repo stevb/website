@@ -5,7 +5,6 @@ theme = ["osm", "archie"]
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-googleAnalytics = "G-QPVD8B7M7F"
 
 [params]
 	mode = "toggle"
@@ -13,6 +12,8 @@ googleAnalytics = "G-QPVD8B7M7F"
 	useCDN = "false"
 	mathjax = "false"
 	katex = "false"
+	googleAnalytics = "G-QPVD8B7M7F"
+
 	
 
 [[params.social]]
