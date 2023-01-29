@@ -8,7 +8,7 @@ showthedate : true
 
 My first week on the bike was marked by a surreal feeling. I can't believe I'm actually here and doing it. It felt like something I was going to wake up from any minute now. I've now got a full week of riding behind me and I'm enjoying myself immensely.
 
-{{< openstreetmap mapName="1_the_start_853653" >}}
+{{< openstreetmap mapName="1_the_start_853653"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" miniMap="true">}}
 
 All of the little day-to-day things are engaging. I am now that guy you once saw on the side of some lonely stretch of road, eating his lunch and waving at passers-by. The landscapes of Tierra del Fuego can be described as rugged, desolate, and windy. My Spanish gets me a little further every day and I'm pleasantly encouraged by my nascent abilities to ask for stuff or to express myself. 
 
