@@ -6,7 +6,7 @@ draft: false
 showthedate : true
 ---
 
-The previous section I wrote about had me in a bit of dip. Things can't be fun and perfect all the time but those moments do serve to lay a relative baseline for the highs. This last section from Santiago, Chile up and over a huge pass and down to Mendoza, Argentina has been an absolute highlight of my trip so far.
+The previous section I wrote about had me in a bit of a dip. Things can't be fun and perfect all the time but those moments do serve to lay a relative baseline for the highs. This last section from Santiago, Chile up and over a huge pass and down to Mendoza, Argentina has been an absolute highlight of my trip so far.
 
 {{< openstreetmap mapName="8_fat_tires_easy_gears_921169"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" miniMap="true">}}
 
