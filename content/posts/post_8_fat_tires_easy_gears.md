@@ -1,0 +1,59 @@
+---
+title: "Fat tires 'n easy gears"
+date: 2023-05-27T12:03:39-04:00
+summary: "Santiago to Mendoza"
+draft: false
+showthedate : true
+---
+
+The previous section I wrote about had me in a bit of dip. Things can't be fun and perfect all the time but those moments do serve to lay a relative baseline for the highs. This last section from Santiago, Chile up and over a huge pass and down to Mendoza, Argentina has been an absolute highlight of my trip so far.
+
+{{< openstreetmap mapName="8_fat_tires_easy_gears_921169"  searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" miniMap="true">}}
+
+After four nights in Santiago enjoying the luxuries of a big city I was ready to hit the road again. As always, for whatever reason it was that day, I got a later than expected start out of the city but eventually got on the road. While I had them, I took advantage of bike lanes, which I may take for granted at home. The ride out was fairly uneventful as I passed by lots of farm land enveloped in a layer of smog from the massive city of Santiago. I had taken a cursory look at the map before leaving and figured there were plenty of routes to take. Having now left the sparsely populated Patagonia decidedly behind me there are many more options for routes; a "Choose Your Own Adventure" by bike. I've since learned that this means I can also get pretty lost.
+
+{{< figure src="https://i3.lensdump.com/i/6YJe8M.jpeg" title="Time to hitch" >}}
+
+Towards the end of that first day of riding my planned route reached a fence mentioning some kind of military property. No worries, I'll go around, I thought. The next route option reached an on-ramp for a highway. All good, there's one more road on the map that I can take to the next town, that'll be the one. With the sun going down I pull up to another fence but this time without a sign. A man in his yard calls me over and explains there's mining operations on the other side. Best not to go that way. Try hitchhiking at the highway tomorrow morning. He asks me to wait a moment and goes inside and quickly comes out with a bag of sweets. I thank him and we chat a bit longer. At this point in my trip I think I'm speaking Spanish at about a four or five year old level.
+
+{{< figure src="https://i2.lensdump.com/i/6YQIEr.jpeg" title="Carlos and his family" >}}
+
+The man, who's name I've learned is Carlos, asks me again to wait a second as he goes inside once more. A few minutes later he opens the gate and tells me I can spend the night at his family's place. I thank him and his wife profusely for their hospitality as they welcome me into their home. We get acquainted over a glass of milk as I begin to notice the limits of my Spanish. They invite some of their adult children over and we have dinner together. Even though there is a huge limit in our ability to communicate it's a comfortable, easy evening. The family was quite religious in a really nice way, discussing randomly drawn bible passages after dinner and how they applied to their lives. This much I understood and the messages rang universal. After dinner, Carlos and his wife left to attend a gathering at their church and invited their grandson, Luca to spend some time with the stranger in their house. As I've noticed with younger generations all over the world, Luca spoke perfect English. The following morning I helped with some yardwork and loading a few heavy plants into the truck. I "speeched" a little using Google Translate as my backup while thanking Carlos and his family for their hospitality and generosity. Their example is not lost on me. I hit the road again with several days' worth of fruits and sweets. 
+
+{{< figure src="https://i1.lensdump.com/i/6YJnQQ.jpeg" title="No one's picking me up" >}}
+
+Hitchhiking in the morning proved to be quite a bit easier than toward the evening. In my time waiting I wondered if I'd stop for myself, a beared man with a bicycle on the side of the road. I caught a ride for a short section after which I could carry on by bicycle toward the town of Los Andes. I'd hit highway once more toward the evening and ended up having to call a taxi to come pick me up. After Los Andes I could begin on the climb toward the pass, which would be about two or three days of steady, gradual climbing from approximately 800 to 3800 meters. The pass is a very popular one for trucks and vehicle traffic but they're chugging along quite slowly right next to me with a very small speed differential. It felt quite safe the whole time. No "arm-pump honk-request" for the trucks went unanswered.
+
+{{< figure src="https://i2.lensdump.com/i/6YJvea.jpeg" title="Thankfully not too windy" >}}
+{{< figure src="https://i3.lensdump.com/i/6YJyO9.jpeg" title="Very specific signage" >}}
+{{< figure src="https://i.lensdump.com/i/6YJ5c2.jpeg" title="A busy road with friendly trucks" >}}
+
+Every now and then I'd stop along the way to eat a snack and get out of the saddle briefly. On one such break, to my surprise, a truck rolled by with a Dutch license plate. I remember doing some kind of chest thumping motion in an effort to signal "I'm like you!" and carried on wondering if they had understood me. A few switchbacks later I saw their truck parked off to the side as they held out an alfajor (a popular, traditional sweet snack) for me. I greeted them in Dutch and we spent quite some time chatting on the side of the road. It really hit me in this moment how much I can feel like a different person when speaking a different language; I had hardly spoken Dutch at all for the past five months. Languages are incredible! Emiel and Leslie are two veterinarians that are travelling through South America in their HZJ78-series Land Cruiser. They also made a website, which you can find here: [link](https://lcavontuur.nl). The super cool picture of me going up the switchbacks I have thanks to them!
+
+{{< figure src="https://i.lensdump.com/i/6YJzuA.jpeg" title="Climbing to the top" >}}
+{{< figure src="https://i1.lensdump.com/i/6YJLye.jpeg" title="Finally getting to speak Dutch again!" >}}
+{{< figure src="https://i2.lensdump.com/i/6YJYTk.jpeg" title="Primo camp spot in the vehicle shed" >}}
+
+On my final night before the pass I asked at the Portillo ski resort if there was anywhere to pitch my tent. After chatting with the manager I was allowed to sleep in the vehicle shed, which even had a bathroom with a hot shower. I stacked a mattress on some old pallets and slept like a baby. Early the next morning I was on my bicycle again for the final day of climbing up and over the pass. Quite some years ago a tunnel was bored through the mountain, which drastically cut down the transit time for trucks on this busy route. Immediately before the paved road enters the tunnel there's a turn off to the right where the old dirt road continues switchbacking up to the pass. Eventually I also see the end of these last few turns and reach the incredibly windy pass and quickly find shelter behind a wall where a group of motorcyclists is also hiding. They have some coffee left in their thermos for me and we spend some time chatting. After some quick photos with the rather large statue of "Christ the Redeemer of the Andes" I start on the downhill. I've spent the last few days wondering what it'll be like to finally descend again.
+
+<!--{{< figure src="https://i1.lensdump.com/i/6YJo7x.jpeg" title="caption" >}}-->
+{{< figure src="https://i.lensdump.com/i/6YJhsC.jpeg" title="Paved road switches to dirt" >}}
+{{< figure src="https://i2.lensdump.com/i/6YJuUH.jpeg" title="The last of the switchbacks" >}}
+{{< figure src="https://i3.lensdump.com/i/6YJPmc.jpeg" title="Cristo Redentor de los Andes at the top of the pass" >}}
+
+Having spent the past few days ascending to over 3800 meters means I've got quite some downhill ahead of me. I briefly struggle to find the combined Chilean-Argentinian customs building fearing that I've ridden past it on my mad descent away from the wind. A few people assure me it's further down the road. Aside from the brief stop at the border I cruise through the next 100 kilometers toward the town of Uspallata in under four hours with very little effort. The downhill is hard-earned and paid for and it's marvelous at dusk with the dry, intricately colored Andes surrounding me. I ride past sunset in order to make it to a small hostel in town and a big steak dinner. I stay for a night and then set out on the Ruta 13 from Uspallata to Mendoza. It's the home stretch but it's known to be remote, windy, and dry. I load the bike up with water and ride out of town on the small dirt road.
+
+{{< figure src="https://i1.lensdump.com/i/6YQ2u5.jpeg" title="And now 100 km of downhill..." >}}
+{{< figure src="https://i2.lensdump.com/i/6YQAAz.jpeg" title="Riding into the night to make it to Uspallata" >}}
+
+Riding out of Uspallata on a Sunday I see a few four-wheelers and dirt bikers enjoying their weekend. Several of them stop to check on me, to make sure that I know there's nothing all the way to Mendoza. One wants a picture together. The route is only about 85 kilometers but the riding surface is a soft sand and there's two passes over 3000 meters. After the first of two full days I camp out near a spring in the desert. It's odd to be riding through a place so dry only to stumble upon a few trees in the desert and green, wet ground. The water appears to bubble up out of nowhere and it's quite unique. I had never seen such a thing; it felt like something straight out of a spaghetti western film. The following day I climbed up and over the final pass and experienced some of the worst winds so far on my journey. Even though it was a tailwind pushing me up a steep hill, the sand made it all rather painful and frustrating but once up and over it was all downhill to Mendoza. I gave one final look back at the pass where just a few days ago I had enjoyed a sunny day at the top. Upon reaching Mendoza I would come to find that the pass had closed the day after my crossing due to a snowstorm, which kept the pass shuttered for more than a week. Good timing!
+
+{{< figure src="https://i1.lensdump.com/i/6YQWVT.jpeg" title="On my own on Ruta 13" >}}
+{{< figure src="https://i3.lensdump.com/i/6YQinb.jpeg" title="Looking back at the Uspallata pass" >}}
+{{< figure src="https://i1.lensdump.com/i/6YJfuK.jpeg" title="Downhill to Mendoza" >}}
+
+I spent a full week in Mendoza just resting, reading, eating, and visiting a vineyard. I cleaned up my bike and double checked for any issues. Together with two Argentines from my hostel we went and watched two "under 20" World Cup matches; Nigeria versus Italy and Brazil versus the Dominican Republic. I went and had a cup of coffee at Starbucks because sometimes I just want a nice welcome breather from a world filled with novelty. As I walked outside there was a band on the street absolutely nailing a cover of Lodi by Creedence Clearwater Revival. I had never connected with that song as much as I had in that brief moment. 
+
+{{< figure src="https://i.lensdump.com/i/6YJcQP.jpeg" title="Mafalda" >}}
+
+I had heard that the road out of Mendoza toward the Province of Salta is rather uneventful and worth skipping by bus. The bus companies weren't exactly excited to take my bike along and were being rather difficult. Even though I had heard the upcoming stretch was boring I was still curious. How desolate could it be? The stretch I had just completed had been one my favorites so far all the while having heard from other cyclists that it was too busy and boring. I quite liked that the bus companies made the decision for me. With morale and spirits at an all time high I would ride out of Mendoza by bike. If the upcoming Ruta 40 did indeed prove too long I could always try my hand at more hitchhiking. Let's cross that bridge when I get there.
