@@ -1,5 +1,5 @@
 ---
-title: "Cycling on the moon"
+title: "Cycling on the moon 🇦🇷 🇨🇱 🇧🇴"
 date: 2023-07-13T13:31:35-04:00
 summary: "Reaching the end of Argentina and Chile and entering Bolivia. Riding the lagunas route to the Salar de Uyuni"
 draft: false

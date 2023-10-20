@@ -1,5 +1,5 @@
 ---
-title: "Leaving and starting"
+title: "Leaving and starting 🇦🇷 🇨🇱"
 date: 2023-01-24T13:00:37-05:00
 summary: "Buenos Aires, Tierra del Fuego, and into Chile"
 draft: false

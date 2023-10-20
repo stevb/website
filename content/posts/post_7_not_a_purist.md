@@ -1,5 +1,5 @@
 ---
-title: "On not being a purist"
+title: "On not being a purist 🇨🇱"
 date: 2023-05-15T19:40:28-04:00
 summary: "Taking the bus from Los Ángeles to Santiago"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Don't worry 'bout the mule goin' blind"
+title: "Don't worry 'bout the mule goin' blind 🇧🇴"
 date: 2023-08-22T10:13:02-04:00
 summary: "Cycling from Uyuni to Potosí to Sucre, lots of relaxing, taking the bus to La Paz and continuing toward Lago Titicaca"
 draft: false

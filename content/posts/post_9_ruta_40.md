@@ -1,5 +1,5 @@
 ---
-title: "La ruta 40"
+title: "La ruta 40 🇦🇷"
 date: 2023-06-10T18:47:57-04:00
 summary: "A long quiet stretch from Mendoza to Cafayate"
 draft: false

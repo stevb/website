@@ -1,5 +1,5 @@
 ---
-title: "The monkey puzzle"
+title: "The monkey puzzle 🇦🇷 🇨🇱"
 date: 2023-05-11T19:45:24-04:00
 summary: "San Martín de los Andes to Los Ángeles"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Doritos for dinner"
+title: "Doritos for dinner 🇦🇷"
 date: 2023-02-20T13:00:36-05:00
 summary: "Perito Moreno glacier, El Chalten, and some side-trips"
 draft: false

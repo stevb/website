@@ -1,5 +1,5 @@
 ---
-title: "Getting going"
+title: "Getting going 🇨🇱 🇦🇷"
 date: 2023-02-06T15:00:29-05:00
 summary: "Torres del Paine, back to Argentina, and on to El Calafate"
 draft: false

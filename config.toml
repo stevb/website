@@ -13,6 +13,7 @@ pygmentscodefencesguesssyntax = true
 	useCDN = "false"
 	mathjax = "false"
 	katex = "false"
+	enableEmoji = "false"
 
 	
 

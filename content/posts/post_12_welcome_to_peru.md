@@ -1,5 +1,5 @@
 ---
-title: "Bienvenido a peru, beep, beep, paga, paga"
+title: "Bienvenido a peru, beep, beep, paga, paga 🇧🇴 🇵🇪"
 date: 2023-10-04T23:18:27-04:00
 summary: "Into Peru along the north shore of Lago Titicaca, Ausungate, Cusco, and headed for The Divide"
 draft: false

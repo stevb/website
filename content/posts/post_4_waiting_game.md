@@ -1,5 +1,5 @@
 ---
-title: "The waiting game"
+title: "The waiting game 🇦🇷 🇨🇱"
 date: 2023-04-09T20:18:24-04:00
 summary: "The O'Higgins border crossing and the Carratera Austral"
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "Two stoves and no pillow"
+title: "Two stoves and no pillow 🇨🇱 🇦🇷"
 date: 2023-04-29T14:30:24-04:00
 summary: "Isla Chiloe, Paso Perez Rosales, and the Ruta de los Siete Lagos"
 draft: false
