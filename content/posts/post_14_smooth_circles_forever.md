@@ -2,7 +2,7 @@
 title: "Smooth circles forever 🇪🇨 🇨🇴 "
 date: 2023-12-24T20:10:00-05:00
 summary: "A hiking trip in Ecuador, making some changes to the bike, and riding from Quito to Bogota"
-draft: true
+draft: false
 showthedate : true
 ---
 I flew back to Quito to continue my trip. It was easier leaving home a second time around, maybe on account of it all being a little less unknown now. Fortunately the heaviness of leaving didn't last long. Sure, the time in transit felt lonely. Airports always seem to be this weird mixture of crowds and crowds of travellers while no one really wants to be there; they just want to get to where they're going. But I soon found myself in a taxi back in Quito and talking with the driver, taking in the chaos of everything around me, and thinking how excited I was to be here. This trip is crazy.
