@@ -9,7 +9,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
 	mode = "toggle"
-	subtitle = "currently south, cycling north"
+	subtitle = "back in the north and carrying on"
 	useCDN = "false"
 	mathjax = "false"
 	katex = "false"
