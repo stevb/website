@@ -1,6 +1,6 @@
 ---
 title: "La universidad de la vida 🇨🇴 "
-date: 2024-02-08T20:10:00-05:00
+date: 2024-02-08T10:10:00-05:00
 summary: "Winding my way from Bogota to Cartagena through central Colombia"
 draft: false
 showthedate : true
