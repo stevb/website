@@ -1,7 +1,7 @@
 ---
 title: "¡andale! 🇬🇹 🇲🇽"
 date: 2024-07-25T10:10:00-05:00
-summary: "entering Mexico, going back and forth to CDMX by bus, and riding from San Cristobal to La Paz via Oaxaca, Puebla, CDMX (again), Queretaro, Guadalajara, Tepic, and Mazatlan" 
+summary: "Entering Mexico, going back and forth to CDMX by bus, and riding from San Cristobal to La Paz via Oaxaca, Puebla, CDMX (again), Queretaro, Guadalajara, Tepic, and Mazatlan" 
 draft: false
 showthedate : true
 ---
