@@ -3,13 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-28T10:10:00-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/post_19_querencia/</loc>
-    <lastmod>2024-07-28T10:10:00-05:00</lastmod>
+    <lastmod>2024-10-20T01:10:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-28T10:10:00-05:00</lastmod>
+    <lastmod>2024-10-20T01:10:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post_20_welcome_home/</loc>
+    <lastmod>2024-10-20T01:10:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/post_19_querencia/</loc>
+    <lastmod>2024-08-11T01:10:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/post_18_andale/</loc>
     <lastmod>2024-07-25T10:10:00-05:00</lastmod>
