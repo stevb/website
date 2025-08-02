@@ -80,7 +80,7 @@ In Portland I stayed with Lisa for a week as I decided what my next move would b
 {{< figure src="https://a.l3n.co/i/ujBeB5.jpg" title="Riding into Portland" >}}
 {{< figure src="https://d.l3n.co/i/ujBQ1x.jpg" title="A very nice Pedestrian/cyclist/light-rail bridge">}}
 {{< figure src="https://c.l3n.co/i/ujBVpH.jpg" title="The Steel Bridge in Portland" >}}
-{{< figure src="https://a.l3n.co/i/ujB9F1.jpg" title="Eating pizza and before Powell's Books! An incredible used bookstore in Portland" >}}
+{{< figure src="https://a.l3n.co/i/ujB9F1.jpg" title="Eating some pizza before Powell's Books! An incredible used bookstore in Portland" >}}
 
 I found Klaas and Michelle who were willing and able to store my bike for the winter and I also found a cheap flight home. It ended up being a pretty easy decision once I let go of any self-imposed demands to keep my trip continuous, whatever that means, and just keyed in on what I really wanted to do right now. I stored my bike, said "see ya later," and got on the plane.
 
